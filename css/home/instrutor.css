@@ -1,0 +1,17 @@
+#instrutor{
+    background-color: #39373d;
+    padding: 120px 0px;
+}
+
+
+.instrutor-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 120px;
+
+}
+
+.instrutor-descricao{
+    color:beige
+}

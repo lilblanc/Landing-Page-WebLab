@@ -1,0 +1,19 @@
+.footer-bg{
+    background-color: #000;
+    margin-top: 60px;
+}
+
+.footer{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 120px 0px;
+}
+
+.redes{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 54px;
+}
